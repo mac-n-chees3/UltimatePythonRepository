@@ -13,18 +13,17 @@
 # else:
 #     print("The strings are equally long")
 # ========== 3.2.3 ==========
-# string = input("Enter a string: ")
-# length = len(string)
+string = input("Enter a string: ")
+length = len(string)
 
-# # demo
-# # length of string = 4
 
-# # index = -1, -2, -3, -4
 
-# index = -1
-# while index >= -length :
-#     print(string[index])
-#     index = index - 1
+index = -1, -2, -3, -4
+
+index = -1
+while index >= -length :
+    print(string[index])
+    index = index - 1
 
 # ========== 3.2.4 ==========
 # string = input("enter a string: ")

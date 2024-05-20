@@ -46,10 +46,10 @@
 #     word = word[position:]
 #     position += 1
 # ========== 3.3.6 ==========
-# whole = input('String: ')
-# search = input('substring: ')
-# position = whole.find(search)
-
+whole = input('String: ')
+search = input('substring: ')
+position = whole.find(search)
+print(position)
 
 # part = whole[position+1:]
 

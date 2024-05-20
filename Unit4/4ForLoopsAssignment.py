@@ -1,8 +1,12 @@
 # ========== 4.4.1 ==========
-
-
+string = input('enter a string: ')
+for letter in string:
+    print(letter)
+    print("*")
 # ========== 4.4.2 ==========
-
+integer = int(input('enter a positive integer'))
+for number in integer:
+    integer += 1
 
 # ========== 4.4.3 ==========
 
